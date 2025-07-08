@@ -1,3 +1,9 @@
+# App Preview
+
+![Captura de tela_8-7-2025_202915_localhost](https://github.com/user-attachments/assets/72e75ca9-6d37-4204-acca-e29481b1adb4)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
